@@ -22,7 +22,7 @@ Online shopping store that sells and restock produce.
 ## **Road Map**
 
 1. Add a validation to check if in stock quantities is greater than 0. 0 quantities should not allow item to be added to cart.
-2. concatenate the values of the quantities of same items into one line instead of separately.
+2. Concatenate the values of the quantities of same items into one line instead of separately.
 
 ---
 
@@ -30,4 +30,5 @@ Online shopping store that sells and restock produce.
 
 - MIT
 - Images from [Lorem Picsum](https://picsum.photos/)
-- Custom styling and code using HTML, CSS and JavaScript.
+- Custom API created using Strapi.
+- Custom styling and code using HTML, JavaScript and React.
